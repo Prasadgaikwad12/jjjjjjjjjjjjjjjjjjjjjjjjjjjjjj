@@ -1,0 +1,6 @@
+{
+  "name": "NotesChecker AI",
+  "description": "AI-powered notes analysis, quality scoring out of 100, syllabus breakdown, and actionable improvement feedback for Class 11, Class 12, JEE, and NEET students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
